@@ -1,0 +1,24 @@
+.container {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.section-title {
+  overflow: auto;
+  overflow-x: scroll;
+}
+
+.card-outline-white {
+  border-color: #ffffff;
+}
+
+img {
+  max-height: 350px;
+  padding-right: 10px;
+}
+
+.p-hearder {
+  font-weight: bold;
+  font-family: "나눔 고딕","Nanum Gothic","맑은 고딕","Malgun Gothic","Apple Gothic","돋움",Dotum,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
